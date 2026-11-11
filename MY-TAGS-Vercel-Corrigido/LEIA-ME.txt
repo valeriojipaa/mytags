@@ -1,0 +1,12 @@
+MY TAGS — pacote para atualizar na Vercel
+
+Publique TODO o conteúdo desta pasta na raiz do projeto da Vercel. Preserve assets, acesso.css e acesso.js junto com index.html e app.html.
+Se usar um repositório conectado à Vercel, substitua os arquivos correspondentes por estes e faça um novo deploy. Projeto estático: sem comando de build; diretório de saída na raiz onde está index.html.
+
+index.html: nova página de acesso, com o logo escolhido.
+app.html: aplicativo completo com o logo na barra lateral.
+assets/my-tags-logo.png: imagem original fornecida, sem redesenho.
+
+IMPORTANTE: esta é a interface de acesso. Autenticação e pagamento ainda NÃO estão conectados. Entrar, recuperar senha e ativar acesso informam essa condição. Nenhuma senha é transmitida ou salva. A demonstração continua acessível publicamente em app.html. Não utilize como proteção de conteúdo pago.
+
+Os dados do aplicativo permanecem no navegador. O endereço de publicação deve permanecer o mesmo para continuar usando o mesmo armazenamento. Este pacote não inclui registros de usuários. As notícias continuam sendo uma seleção estática da consulta anterior.
